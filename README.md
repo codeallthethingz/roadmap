@@ -4,7 +4,7 @@ This repository is purely to hold issues for all the other repositories and to g
 
 Here are some handy issue filters:
 
-Open issues for release v1.0.0 by Repo: 
+Open issues for release v1.0.0 by repository: 
 - [Engine Issues](https://github.com/battlesnakeio/roadmap/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Arepo%3Aengine+milestone%3Av1.0.0)
 - [Play Issues](https://github.com/battlesnakeio/roadmap/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Arepo%3Aplay+milestone%3Av1.0.0)
 - [Board Issues](https://github.com/battlesnakeio/roadmap/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Arepo%3Aboard+milestone%3Av1.0.0)

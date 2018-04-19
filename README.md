@@ -17,3 +17,4 @@ Common:
 - [Bugs](https://github.com/battlesnakeio/roadmap/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abug)
 - [Good first issues](https://github.com/battlesnakeio/roadmap/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22+)
 - [Everything in the initial release](https://github.com/battlesnakeio/roadmap/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+milestone%3Av1.0.0)
+- [Issues with no labels](https://github.com/battlesnakeio/roadmap/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+no%3Alabel)
